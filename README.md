@@ -1,4 +1,4 @@
-👋 Hi, I’m @QuotesCosmos, creator of quotescosmos.com a universal inspirational quotes website.
+👋 Hi, I’m @QuotesCosmos, creator of https://www.quotescosmos.com a universal inspirational quotes website.
 
 👀 I’m interested in universal knowledge for everyone. I use machine learning (ML) and natural language processing (NLP) to classify existing quotes and generate new quotes.
 
